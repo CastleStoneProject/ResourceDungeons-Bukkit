@@ -1,0 +1,5 @@
+name: "ResourceDungeonsBukkit"
+version: 1.12.2
+main: net.tkarura.resourcedungeons.bukkit.ResourceDungeonsBukkit
+commands:
+  ResourceDungeons:
